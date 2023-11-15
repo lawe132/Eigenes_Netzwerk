@@ -1,1 +1,1 @@
-# SNA_WS23_24
+# Eigenes_Netzwerk
